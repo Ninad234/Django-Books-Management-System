@@ -265,8 +265,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Ninad Gawade**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- GitHub:https://github.com/Ninad234
+- LinkedIn: https://www.linkedin.com/in/ninad-gawade-5a859625b/
 
 ## 🙏 Acknowledgments
 
@@ -277,8 +277,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help:
-- Open an [issue](https://github.com/yourusername/django-books-management/issues)
-- Contact: your.email@example.com
+- Open an issue at https://github.com/yourusername/django-books-management/issues
+- Contact: ninadgawade145@gmail.com
 
 ---
 
